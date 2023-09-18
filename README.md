@@ -1,3 +1,4 @@
 # DMDS
 Database Management and Data Visualisation Course
-My First Commit - 2
+My First Commit - Conflict Solved!
+
